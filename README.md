@@ -1,7 +1,6 @@
 # Ex-8-RECOGNITION OF THE GRAMMAR anb where n-10 USING YACC
-# NAME:MBharathi priyan T
-# REGISTER NUMBER:212221040028
-# Date:27.03.2024
+# NAME: Yamesh R
+# REGISTER NUMBER:212222220059
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
